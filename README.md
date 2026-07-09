@@ -12,7 +12,7 @@ pinned: false
 
 ### Chat with your documents. Get cited answers — not hallucinations.
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/Mohithsai10/documind)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/Mohi10/DocuMind)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)
 ![LangChain](https://img.shields.io/badge/LangChain-1.2-green?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991?style=for-the-badge&logo=openai)
